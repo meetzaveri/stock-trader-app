@@ -1,6 +1,6 @@
-# vue-cli
+# Stock Trader App
 
-> A Vue.js project
+> A Vue.js project with Vuex implementation
 
 ## Build Setup
 
